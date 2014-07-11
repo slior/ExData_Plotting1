@@ -1,3 +1,22 @@
+
+This is a fork of the original git repo, containing the solution given to the exercise.
+The repo contains, in its root directory, 8 files:
+<ol>
+	<li>`plot1.R` and `plot1.png` for the 1st plot</li>
+	<li>`plot2.R` and `plot2.png` for the 2nd plot</li>
+	<li>`plot3.R` and `plot3.png` for the 3rd plot</li>
+	<li>`plot4.R` and `plot4.png` for the 4th plot</li>
+</ol>
+
+The `R` files contain the simple scripts for creating the plots, the `png` files contain the output image.
+The scripts assume that the data pointed in the exercise below is in the working directory. All scripts contain the code for reading the file (copied for each file).
+
+---
+The rest of this README file is the one given in the original repo, describing the required exercise; left here for reference.
+********
+
+
+
 ## Introduction
 
 This assignment uses data from
